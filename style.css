@@ -1,0 +1,13 @@
+.img-iim{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+    .languages{
+        display: flex;
+        justify-content: space-evenly;
+    }
+   
